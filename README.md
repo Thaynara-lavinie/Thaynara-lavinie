@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thaynara-lavinie
-- 👀 I’m interested in java 
+- 👀 I’m interested in learn
 - 🌱 I’m currently learning Java and React
 - 🔭 I’m currently developing a mobile app 
 - 💞️ I’m looking to collaborate with other developers
